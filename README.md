@@ -8,8 +8,7 @@ Freelance Investigation work for a client that needed to understand how to desig
 * [New Zealand's Funeral Homes Database](https://github.com/ICereghetti/project_funeral_homes/blob/b45ae90cea72fae99af1870f2f5ad925c75aeed4/funeral_homes_database.csv)
 * [Python Code to scrape and format text data from Funeral Homes Websites using OpenAI](https://github.com/ICereghetti/project_funeral_homes/blob/1556a93cb6b031ada01dad035458566a79eef8a2/scrape_website.py)
 * [Json File with samples of the data scraped from websites](https://github.com/ICereghetti/project_funeral_homes/blob/b45ae90cea72fae99af1870f2f5ad925c75aeed4/samples.json)
-* [Database Schema Document with the main structure I recommend ex-post our findings]
-(https://docs.google.com/spreadsheets/d/1YKqOfKtCx-Bx4KtMh7m7fcoXkl7wU3KPQ9LuyQzWJus/edit#gid=954638511))
+* [Database Schema Document with the main structure I recommend ex-post our findings](https://docs.google.com/spreadsheets/d/1YKqOfKtCx-Bx4KtMh7m7fcoXkl7wU3KPQ9LuyQzWJus/edit#gid=954638511))
 
 ## Skills used in this project
 1) Data Scraping
