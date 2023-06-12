@@ -40,6 +40,8 @@ This project involves freelance investigation work for a client who needed assis
 5) Deliverables:
    - [Python Code](https://github.com/ICereghetti/project_funeral_homes/blob/b45ae90cea72fae99af1870f2f5ad925c75aeed4/scrape_website.py)
    - [Data Sample](https://github.com/ICereghetti/project_funeral_homes/blob/b45ae90cea72fae99af1870f2f5ad925c75aeed4/samples.json)
+
+
 ![](https://github.com/ICereghetti/Cereghetti_Portfolio/blob/27f2f9b2d88ac78119a6e8f37f4d1b40b93635ab/images/project_funeral_homes_1.png?raw=true)
 
 #### C) Design the Database using the Gathered Information
