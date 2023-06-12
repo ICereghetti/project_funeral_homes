@@ -37,6 +37,6 @@ a) [New Zealand's Funeral Homes Database](https://github.com/ICereghetti/project
 5) Deliverables
 a) [Code](https://github.com/ICereghetti/project_funeral_homes/blob/b45ae90cea72fae99af1870f2f5ad925c75aeed4/scrape_website.py)
 b) [Data Sample](https://github.com/ICereghetti/project_funeral_homes/blob/b45ae90cea72fae99af1870f2f5ad925c75aeed4/samples.json)
-#### C) We use the information to design the database  
+#### C) We use the previous information to design the database  
 1) Deliverable:
 a) [Database structure](https://docs.google.com/spreadsheets/d/1YKqOfKtCx-Bx4KtMh7m7fcoXkl7wU3KPQ9LuyQzWJus/edit#gid=954638511))
