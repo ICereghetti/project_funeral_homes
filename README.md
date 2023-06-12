@@ -1,45 +1,48 @@
-# SQL Database Design using Website's data scraped with Selenium, BS4 and ChatGPT
+# SQL Database Design using Website's Data Scraped with Selenium, BeautifulSoup, and ChatGPT
 ## Project Description
 
-Freelance Investigation work for a client that needed to understand how to design a complete SQL database from scratch for his Funeral Homes website. He needs to have a solid database that we can cut in multiple ways to have different points of views of the data. At the same time, it has to be flexbible enough to pivot in case we need to add new extra data.
+This project involves freelance investigation work for a client who needed assistance in designing a comprehensive SQL database from scratch for their Funeral Homes website. The goal was to create a robust database that could be queried in multiple ways to gain different perspectives on the data. Additionally, the database needed to be flexible enough to accommodate future additions of new data.
+
 
 ## Deliverables
 
 * [New Zealand's Funeral Homes Database](https://github.com/ICereghetti/project_funeral_homes/blob/b45ae90cea72fae99af1870f2f5ad925c75aeed4/funeral_homes_database.csv)
-* [Python Code to scrape and format text data from Funeral Homes Websites using OpenAI](https://github.com/ICereghetti/project_funeral_homes/blob/1556a93cb6b031ada01dad035458566a79eef8a2/scrape_website.py)
-* [Json File with samples of the data scraped from websites](https://github.com/ICereghetti/project_funeral_homes/blob/b45ae90cea72fae99af1870f2f5ad925c75aeed4/samples.json)
-* [Database Schema Document with the main structure I recommend ex-post our findings](https://docs.google.com/spreadsheets/d/1YKqOfKtCx-Bx4KtMh7m7fcoXkl7wU3KPQ9LuyQzWJus/edit#gid=954638511))
+* [Python Code for Scraping and Formatting Text Data from Funeral Homes Websites using OpenAI](https://github.com/ICereghetti/project_funeral_homes/blob/1556a93cb6b031ada01dad035458566a79eef8a2/scrape_website.py)
+* [JSON File with Samples of the Data Scraped from Websites](https://github.com/ICereghetti/project_funeral_homes/blob/b45ae90cea72fae99af1870f2f5ad925c75aeed4/samples.json)
+* [Database Schema Document with the Recommended Main Structure](https://docs.google.com/spreadsheets/d/1YKqOfKtCx-Bx4KtMh7m7fcoXkl7wU3KPQ9LuyQzWJus/edit#gid=954638511)
 
-## Skills used in this project
+
+## Skills Used in This Project
 1) Data Scraping
 2) Text Processing/Manipulation
-4) Data Analysis
-6) Data Interpretation
-7) Data Modeling
+3) Data Analysis
+4) Data Interpretation
+5) Data Modeling
 
-## Tools used
+## Tools Used
 
-1) Python (Selenium, Open AI, Beautiful Soup, urllib, time)
-2) SQL (Bigquery)
+1) Python (Selenium, OpenAI, BeautifulSoup, urllib, time)
+2) SQL (BigQuery)
 3) Google Docs
 
 ## Highlights
-#### A) Scrape Funeral Direct of New Zelaand with Selenium (https://funeraldirectors.co.nz)
-1) Selenium is used to scrape and navigate through the website
-2) Pandas, Time and BeautifulSoup are used to struture it.
+#### A) Scrape Funeral Directors of New Zealand with Selenium (https://funeraldirectors.co.nz)
+1) Utilized Selenium to scrape and navigate through the website.
+2) Leveraged Pandas, Time, and BeautifulSoup for data structuring.
 3) Deliverable:
-a) [New Zealand's Funeral Homes Database](https://github.com/ICereghetti/project_funeral_homes/blob/b45ae90cea72fae99af1870f2f5ad925c75aeed4/funeral_homes_database.csv)
-#### B) Scrape relevant information from each business's Website
-1) The client asked for a list of minimun columns to have in a file.
-2) I read, structure and process the text using Chat GPT's API.
-3) Then I structure relevant data into a JSON file for each business.
-4) I create a sample of what the database might have, in order to plan and design a proper database.
-5) Deliverables
-a) [Code](https://github.com/ICereghetti/project_funeral_homes/blob/b45ae90cea72fae99af1870f2f5ad925c75aeed4/scrape_website.py)
-b) [Data Sample](https://github.com/ICereghetti/project_funeral_homes/blob/b45ae90cea72fae99af1870f2f5ad925c75aeed4/samples.json)
+   - [New Zealand's Funeral Homes Database](https://github.com/ICereghetti/project_funeral_homes/blob/b45ae90cea72fae99af1870f2f5ad925c75aeed4/funeral_homes_database.csv)
+
+#### B) Scrape Relevant Information from Each Business's Website
+1) Developed a Python code to scrape and process text data based on the client's requested minimum columns.
+2) Utilized the ChatGPT API to structure and process the text data.
+3) Created a JSON file for each business containing relevant data.
+4) Generated a data sample to aid in planning and designing the database.
+5) Deliverables:
+   - [Python Code](https://github.com/ICereghetti/project_funeral_homes/blob/b45ae90cea72fae99af1870f2f5ad925c75aeed4/scrape_website.py)
+   - [Data Sample](https://github.com/ICereghetti/project_funeral_homes/blob/b45ae90cea72fae99af1870f2f5ad925c75aeed4/samples.json)
 ![](https://github.com/ICereghetti/Cereghetti_Portfolio/blob/27f2f9b2d88ac78119a6e8f37f4d1b40b93635ab/images/project_funeral_homes_1.png?raw=true)
 
-#### C) We use the previous information to design the database  
+#### C) Design the Database using the Gathered Information
 1) Deliverable:
-a) [Database structure](https://docs.google.com/spreadsheets/d/1YKqOfKtCx-Bx4KtMh7m7fcoXkl7wU3KPQ9LuyQzWJus/edit#gid=954638511)
+   - [Database Structure](https://docs.google.com/spreadsheets/d/1YKqOfKtCx-Bx4KtMh7
 ![](https://github.com/ICereghetti/Cereghetti_Portfolio/blob/27f2f9b2d88ac78119a6e8f37f4d1b40b93635ab/images/project_funeral_homes_2.png)
