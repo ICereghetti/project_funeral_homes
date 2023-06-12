@@ -28,7 +28,7 @@ Freelance Investigation work for a client that needed to understand how to desig
 1) Selenium is used to scrape and navigate through the website
 2) Pandas, Time and BeautifulSoup are used to struture it.
 3) Deliverable:
-a) [](https://github.com/ICereghetti/project_funeral_homes/blob/b45ae90cea72fae99af1870f2f5ad925c75aeed4/funeral_homes_database.csv)
+a) [New Zealand's Funeral Homes Database](https://github.com/ICereghetti/project_funeral_homes/blob/b45ae90cea72fae99af1870f2f5ad925c75aeed4/funeral_homes_database.csv)
 #### B) Scrape relevant information from each business's Website
 1) The client asked for a list of minimun columns to have in a file.
 2) I read, structure and process the text using Chat GPT's API.
