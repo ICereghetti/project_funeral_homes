@@ -1,4 +1,7 @@
-# Scraping an Online Database with Selenium + Extracting information from each webiste + text to JSON structure with OpenAI (Chat GPT) + Database Design
+# Scraping an Online Database with Selenium + 
+# Extracting information from each webiste + 
+# text to JSON structure with OpenAI (Chat GPT) + 
+# Database Design
 ## Project Description
 
 Freelance Investigation work for a client that needed to understand how to design a complete SQL database from scratch for his Funeral Homes website. He needs to have a solid database that we can cut in multiple ways to have different points of views of the data. At the same time, it has to be flexbible enough to pivot in case we need to add new extra data.
