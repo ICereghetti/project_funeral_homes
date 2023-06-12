@@ -41,5 +41,5 @@ b) [Data Sample](https://github.com/ICereghetti/project_funeral_homes/blob/b45ae
 
 #### C) We use the previous information to design the database  
 1) Deliverable:
-a) [Database structure](https://docs.google.com/spreadsheets/d/1YKqOfKtCx-Bx4KtMh7m7fcoXkl7wU3KPQ9LuyQzWJus/edit#gid=954638511))
+a) [Database structure](https://docs.google.com/spreadsheets/d/1YKqOfKtCx-Bx4KtMh7m7fcoXkl7wU3KPQ9LuyQzWJus/edit#gid=954638511)
 ![](https://github.com/ICereghetti/Cereghetti_Portfolio/blob/27f2f9b2d88ac78119a6e8f37f4d1b40b93635ab/images/project_funeral_homes_2.png)
