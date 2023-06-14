@@ -1,4 +1,4 @@
-# Wordcloud posted
+# Esports Team Performance Tracker: Twitter Bot and Wordcloud Generation & Analysis
 ## Project Description
 
 This personal project involves the creation of a Twitter Bot that analyzes the last 10 days of Tweets related to the most prominent Esports Teams (T1, FNATIC, Cloud9). Each day, the bot selects one team and generates a Wordcloud in the shape of that team's logo. The words in the Wordcloud are color-coded to match the team's official colors, providing a captivating visual representation of the team's performance.
